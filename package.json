@@ -1,0 +1,23 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "description": "ぜん",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nimono-sleep-well/Zenn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nimono-sleep-well/Zenn/issues"
+  },
+  "homepage": "https://github.com/Nimono-sleep-well/Zenn#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
